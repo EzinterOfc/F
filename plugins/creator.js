@@ -21,12 +21,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 ɴᴀᴍᴀ ʙᴏᴛ* : ɪᴍᴠ ʙᴏᴛ
-*✉️ ɴᴀᴍᴀ ᴏᴡɴᴇʀ* : 𝓜.𝓡𝔂𝓪𝓷 𝓐𝓭𝓲𝓽𝔂𝓪 𝓟
+*💌 ɴᴀᴍᴀ ʙᴏᴛ* : ezn ʙᴏᴛ
+*✉️ ɴᴀᴍᴀ ᴏᴡɴᴇʀ* : 𝓜.Rafi Lukmanu Faizal
 *♂️ ɢᴇɴᴅᴇʀ* : Laki - laki
 *🕋 ᴀɢᴀᴍᴀ* : Islam
-*⏰ ᴛᴀɴɢɢᴀʟ ʟᴀʜɪʀ* : 12 ᴀɢᴜsᴛᴜs 1997
-*🗺️ ᴛɪɴɢɢᴀʟ* : ɪɴᴅᴏɴᴇsɪᴀ , ᴊᴀᴡᴀ ʙᴀʀᴀᴛ , ʙᴀɴᴅᴜɴɢ , ᴄɪᴍᴀʜɪ
+*⏰ ᴛᴀɴɢɢᴀʟ ʟᴀʜɪʀ* : 05 Juni 2008
+*🗺️ ᴛɪɴɢɢᴀʟ* : ɪɴᴅᴏɴᴇsɪᴀ , Jawa timur , kediri 
 
 ───────[ ɪᴍᴠ ʙᴏᴛ ]───────
 
