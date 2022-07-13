@@ -52,26 +52,26 @@ global.sdc = 'https://s.id/Yannn'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082350496532'
-global.povo = '082252285143'
-global.pgopay = '082252285143'
-global.ppulsa = '082252285143'
-global.ppulsa2 = '082350496532'
+global.pdana = '085600380823'
+global.povo = '085600380823'
+global.pgopay = '085600380823'
+global.ppulsa = '085600380823'
+global.ppulsa2 = '082153954737'
 global.psaweria = 'https://saweria.co/JbYannStore'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282350496532'
-global.nomorown = '6282252285143'
-global.namebot = ' 「 ☕︎ ɪᴍᴠ ʙᴏᴛ 」'
-global.nameown = '𝓡𝔂𝓪𝓷𝓷𝓷𝓷..☕︎'
+global.nomorbot = '6282153954737'
+global.nomorown = '6285600380823'
+global.namebot = ' 「 ☕︎ ezn ʙᴏᴛ 」'
+global.nameown = 'Faisall..'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282252285143'],
-  ['6282252285143'],
-  ['6282252285143'],
-  ['6282252285143', '𝓡𝔂𝓪𝓷𝓷𝓷☕︎', true]
+  ['6285600380823'],
+  ['6285600380823'],
+  ['6285600380823'],
+  ['6285600380823', 'Faisall...', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -117,13 +117,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 ɪᴍᴠ ʙᴏᴛ ☕︎ 」' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ ɪᴍᴠ ʙᴏᴛ ☕︎¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ ɪᴍᴠ ʙᴏᴛᴢ'
+global.wm = '                「 ezn ʙᴏᴛ ☕︎ 」' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ ezn ʙᴏᴛ ☕︎¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '⫹⫺ ezn ʙᴏᴛᴢ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ ʙʏ ɪᴍᴠ ᴛᴇᴀᴍ'
-global.author = '❑ ɪᴍᴠ ʙᴏᴛ ʙʏ ɪᴍᴠ ᴛᴇᴀᴍ❑'
+global.titlebot = '𝗥𝗣𝗚 | Whatsapp ʙᴏᴛ ʙʏ ezn ᴛᴇᴀᴍ'
+global.author = '❑ ɪᴍᴠ ʙᴏᴛ ʙʏ ezn ᴛᴇᴀᴍ❑'
 
 
 /*============== LOGO ==============*/
