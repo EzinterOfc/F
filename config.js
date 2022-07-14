@@ -13,6 +13,7 @@
 // • Rasel comel
 // • Xtreshe (Beban)
 // • Dll
+// • 🗿
 
 //[!] Jangan Dihapus, mending ditambahin 
 
@@ -71,7 +72,7 @@ global.owner = [
   ['6285600380823'],
   ['6285600380823'],
   ['6285600380823'],
-  ['6285600380823', 'Faisall...', true]
+  ['6285600380823', 'Fᴀɪsᴀʟʟ...', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
