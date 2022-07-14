@@ -21,19 +21,19 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 ɴᴀᴍᴀ ʙᴏᴛ* : ezn ʙᴏᴛ
-*✉️ ɴᴀᴍᴀ ᴏᴡɴᴇʀ* : 𝓜.Rafi Lukmanu Faizal
-*♂️ ɢᴇɴᴅᴇʀ* : Laki - laki
-*🕋 ᴀɢᴀᴍᴀ* : Islam
-*⏰ ᴛᴀɴɢɢᴀʟ ʟᴀʜɪʀ* : 05 Juni 2008
-*🗺️ ᴛɪɴɢɢᴀʟ* : ɪɴᴅᴏɴᴇsɪᴀ , Jawa timur , kediri 
+*💌 ɴᴀᴍᴀ ʙᴏᴛ* : ᴇᴢɴ ʙᴏᴛ
+*✉️ ɴᴀᴍᴀ ᴏᴡɴᴇʀ* : Oᴡɴᴇʀ Sᴀʟʟ-BᴏᴛZ'
+*♂️ ɢᴇɴᴅᴇʀ* : Lᴀᴋɪ-Lᴀᴋɪ
+*🕋 ᴀɢᴀᴍᴀ* : Isʟᴀᴍ
+*⏰ ᴛᴀɴɢɢᴀʟ ʟᴀʜɪʀ* : 05 ᴊᴜɴɪ 2008
+*🗺️ ᴛɪɴɢɢᴀʟ* : ɪɴᴅᴏɴᴇsɪᴀ , ᴊᴀᴡᴀ ᴛɪᴍᴜʀ  , ᴋᴇᴅɪʀɪ
 
 ───────[ ɪᴍᴠ ʙᴏᴛ ]───────
 
 📷 *ɪɴsᴛᴀɢʀᴀᴍ:* ${sig}
-🐈 *ɢɪᴛʙᴜʜ:* ${sgh}
-🥏 *ᴡʜᴀᴛsᴀᴘᴘ* wa.me/${nomorown}
-🌏 *ᴡᴇʙsɪᴛᴇ:* https://yannmd-ofc.blogspot.com/?m=1
+🐈 *ɢɪᴛʜᴜʙ:* ${sgh}
+🥏 *ᴡʜᴀᴛsᴀᴘᴘ* wa.me/${6285600380823}
+🌏 *ᴡᴇʙsɪᴛᴇ:* ʜᴛᴛᴘs://ᴡᴡᴡ.ɪɴsᴛᴀɢʀᴀᴍ.ᴄᴏᴍ/ʀᴀғɪʟᴜᴋᴍᴀɴᴜғᴀɪᴢᴀʟ
 
 `
   let teks = ' '
