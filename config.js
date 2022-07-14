@@ -45,10 +45,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ryannn.store'
-global.sgh = 'https://github.com/RyanStore'
+global.sig = 'https://instagram.com/rafilukmanufaizal'
+global.sgh = 'https://github.com/EzinterOfc'
 global.sgc = 'https://chat.whatsapp.com/B9cQxA0NWrXHtFclMS5awJ'
-global.sdc = 'https://s.id/Yannn'
+global.sdc = 'https://s.id/Salll'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
@@ -176,8 +176,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ɪᴍᴠ ʙᴏᴛᴢ'
-global.stickauth = `ʙʏ ɪᴍᴠ ᴛᴇᴀᴍ\nwa.me/${global.nomorbot}`
+global.stickpack = 'ezn ʙᴏᴛᴢ'
+global.stickauth = `ʙʏ ezn ᴛᴇᴀᴍ\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
